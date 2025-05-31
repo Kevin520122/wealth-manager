@@ -29,7 +29,7 @@
     "@tailwindcss/postcss": "^4.1.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "date-fns": "^4.1.0",
+    "date-fns": "^3.6.0",
     "inngest": "^3.35.1",
     "lucide-react": "^0.462.0",
     "next": "^15.2.3",
